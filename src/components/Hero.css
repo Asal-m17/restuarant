@@ -1,0 +1,27 @@
+.hero {
+    height: 100vh; 
+    background-image: url('image.jpg'); 
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+  
+  .hero-content h1 {
+    color: #ffffff; 
+    text-shadow: 2px 2px 4px #000000; 
+    padding: 15px;
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero-content p {
+    color: #ffffff;
+    text-shadow: 2px 2px 4px #000000;
+    padding: 15px;
+    font-size: 1.5rem;
+  }
+  

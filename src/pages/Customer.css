@@ -1,0 +1,20 @@
+.customer {
+    text-align: center;
+    padding: 40px;
+    background-color: #f8f9fa;
+  }
+  
+  .customer h1 {
+    margin-bottom: 20px;
+    color: #343a40;
+  }
+  
+  .customer p {
+    font-size: 1.2rem;
+    color: #495057;
+  }
+  
+  .btn-secondary {
+    margin-top: 20px;
+  }
+  

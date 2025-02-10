@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .header, .footer {
+    box-shadow: 0 4px 2px -2px gray;
+    padding: 10px;
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 14px;
+  }
+  
+  .card img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: auto;
+  }
+  
+  .form-control, .form-select {
+    border-radius: 5px;
+  }
+  
+  .btn-secondary {
+    background-color: gray;
+  }
+  
+  .btn-danger {
+    background-color: red;
+  }
+  
+  .star-rating {
+    font-size: 1.5rem;
+  }
+  
+  .star-filled {
+    color: gold;
+  }
+  
+  .star-empty {
+    color: lightgray;
+  }
+  
+  .review {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }

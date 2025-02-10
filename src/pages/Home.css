@@ -1,0 +1,17 @@
+.home {
+    padding: 20px;
+}
+  
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+  
+h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+  
+h1 {
+    text-align: center;
+}
